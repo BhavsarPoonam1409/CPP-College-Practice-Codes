@@ -1,5 +1,4 @@
 # CPP-College-Practice-Codes 👩🏻‍💻
-# C++ College Practice Codes
 
 This repository contains my C++ programs and practice codes covered during college classes.
 
