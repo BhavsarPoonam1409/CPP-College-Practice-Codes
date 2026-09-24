@@ -63,6 +63,31 @@ This repository contains my C++ programs and practice codes covered during colle
 - Deleting Nodes
 - Displaying Linked List
 
+### 11. Doubly Linked List
+- Node Creation
+- Insert at Beginning
+- Insert at End
+- Insert After
+- Delete
+- Traverse Forward
+- Traverse Backward
+
+### 12. Circular Singly Linked List
+- Node Creation
+- Insert at Beginning
+- Insert at End
+- Insert After
+- Delete
+- Traverse
+
+### 13. Circular Doubly Linked List
+- Node Creation
+- Insert at Beginning
+- Insert at End
+- Insert After
+- Delete
+- Traverse
+
 ## Purpose
 
 This repository is maintained for learning, practice, and keeping track of my C++ programming progress during college.
